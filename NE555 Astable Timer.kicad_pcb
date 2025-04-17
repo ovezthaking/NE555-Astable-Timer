@@ -131,7 +131,7 @@
 		(descr "CP, Radial_Tantal series, Radial, pin pitch=5.00mm, diameter=5.0mm, height=10mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
 		(tags "CP Radial_Tantal series Radial pin pitch 5.00mm diameter 5.0mm height 10mm Tantal Electrolytic Capacitor")
 		(property "Reference" "C1"
-			(at 2.5 -3.75 0)
+			(at 0.5 -3 0)
 			(layer "F.SilkS")
 			(uuid "91202591-a064-45b8-9991-b8c35705110f")
 			(effects
@@ -141,7 +141,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 2.5 2.62 0)
 			(layer "F.Fab")
 			(uuid "9ca5891f-e3f8-4442-a676-1f2d236d7013")
@@ -326,7 +326,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 2.5 3.75 90)
 			(layer "F.Fab")
 			(uuid "a7a71904-66af-428a-9f0d-dd4df9449509")
@@ -511,7 +511,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100kΩ"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
 			(uuid "ee04cfeb-e492-4cef-95c2-83a68f01930d")
@@ -1491,7 +1491,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 9.69 17.15 90)
+			(at 2 4 180)
 			(layer "F.Fab")
 			(uuid "b5c1a071-57a9-400a-892a-e8fd1c838474")
 			(effects
